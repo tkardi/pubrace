@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Au Bureau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55259,
+          48.84818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "name": "Le Grand Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55016,
+          48.8395
+        ]
+      }
+    }
+  ]
+}
