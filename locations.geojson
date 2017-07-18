@@ -28,6 +28,45 @@
           48.8395
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patrick's Le Ballon Vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.386449873447418,
+          48.85050529517494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Liberté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.383931279182434,
+          48.85007111235273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bottle Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3785561323165894,
+          48.85116538704912
+        ]
+      }
     }
   ]
 }
