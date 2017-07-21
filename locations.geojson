@@ -67,6 +67,32 @@
           48.85116538704912
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.584887742996216,
+          48.842664714971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasserie 1901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.552942633628845,
+          48.84850731700475
+        ]
+      }
     }
   ]
 }
